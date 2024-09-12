@@ -8,7 +8,7 @@
 🌍 **Location**: Monufia, Egypt  
 📫 **Contact**: [Email](mailto:muhammadelgendi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/muhammad-elgendi) | [GitHub](https://github.com/Muhammad-Elgendi) | [YouTube](https://www.youtube.com/@muhammadelgendi)
 
-![](https://komarev.com/ghpvc/?username=Muhammad-Elgendi&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Muhammad-Elgendi&style=for-the-badge)
 
 ---
 
