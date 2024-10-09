@@ -52,8 +52,3 @@ I specialize in designing, building, and managing scalable, automated infrastruc
 - [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/certificate/UC-e987bca7-a238-47bd-b799-a0f465cc88d4) by Udemy  
 
 ---
-
-## 🔥 Fun Fact  
-I'm passionate about AI, and I've also developed a virtual assistant using TensorFlow, Keras, and Python to help make smart decisions in everyday tasks.
-
----
